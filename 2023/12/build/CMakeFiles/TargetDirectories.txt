@@ -1,0 +1,3 @@
+/home/jarlamsa/workspace/AoC2023/12/build/CMakeFiles/1_Hot_Springs.dir
+/home/jarlamsa/workspace/AoC2023/12/build/CMakeFiles/edit_cache.dir
+/home/jarlamsa/workspace/AoC2023/12/build/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,171 @@
+Row 5 col 5
+Current row 5
+Upper char .
+Going up
+Row 4 col 5
+Current row 4
+Upper char .
+Going up
+Row 3 col 5
+Current row 3
+Upper char #
+Going down
+Row 4 col 5
+Found already
+Going right
+Row 3 col 6
+Current row 3
+Upper char #
+Going left
+Row 3 col 5
+Found already
+Going right
+Row 3 col 7
+Current row 3
+Upper char .
+Going up
+Row 2 col 7
+Current row 2
+Upper char #
+Going down
+Row 3 col 7
+Found already
+Going right
+Row 2 col 8
+Going down
+Row 4 col 7
+Current row 4
+Upper char .
+Going up
+Row 3 col 7
+Found already
+Going right
+Row 4 col 8
+Going left
+Row 3 col 6
+Found already
+Going down
+Row 5 col 5
+Found already
+Going left
+Row 5 col 4
+Current row 5
+Upper char #
+Going down
+Row 6 col 4
+Current row 6
+Upper char .
+Going up
+Row 5 col 4
+Found already
+Going down
+Row 7 col 4
+Current row 7
+Upper char .
+Going up
+Row 6 col 4
+Found already
+Going left
+Row 7 col 3
+Current row 7
+Upper char .
+Going up
+Row 6 col 3
+Current row 6
+Upper char .
+Going up
+Row 5 col 3
+Going down
+Row 7 col 3
+Found already
+Going right
+Row 6 col 4
+Found already
+Going down
+Row 8 col 3
+Current row 8
+Upper char .
+Going up
+Row 7 col 3
+Found already
+Going down
+Row 9 col 3
+Going left
+Row 7 col 2
+Current row 7
+Upper char #
+Going left
+Row 7 col 1
+Going right
+Row 7 col 3
+Found already
+Going right
+Row 7 col 4
+Found already
+Going right
+Row 7 col 5
+Current row 7
+Upper char #
+Going down
+Row 8 col 5
+Current row 8
+Upper char .
+Going up
+Row 7 col 5
+Found already
+Going left
+Row 7 col 4
+Found already
+Going right
+Row 7 col 6
+Current row 7
+Upper char .
+Going up
+Row 6 col 6
+Going left
+Row 7 col 5
+Found already
+Going left
+Row 6 col 3
+Found already
+Going left
+Row 5 col 3
+Found already
+Going right
+Row 5 col 5
+Found already
+row 2 col 7
+row 2 col 8
+row 3 col 5
+row 3 col 6
+row 3 col 7
+row 4 col 5
+row 4 col 7
+row 4 col 8
+row 5 col 3
+row 5 col 4
+row 5 col 5
+row 6 col 3
+row 6 col 4
+row 6 col 6
+row 7 col 1
+row 7 col 2
+row 7 col 3
+row 7 col 4
+row 7 col 5
+row 7 col 6
+row 8 col 3
+row 8 col 5
+row 9 col 3
+...........
+.....###.#.
+.###.##OO#.
+..#.#OOO#..
+....#O#OO..
+.##OOO####.
+.##OO#O..#.
+.OOOOOO##..
+.##O#O####.
+.##O.##.##.
+...........
+Minimum heat loss at end 12 time taken 388 us
