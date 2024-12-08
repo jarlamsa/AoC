@@ -1,0 +1,9 @@
+cmake_minimum_required(VERSION 3.20)
+set(CMAKE_CXX_STANDARD 17)
+project(8)
+
+configure_file(${CMAKE_CURRENT_SOURCE_DIR}/input.txt
+	       ${CMAKE_CURRENT_BINARY_DIR} COPYONLY)
+
+add_executable(1 main.cpp)
+add_executable(2 main2.cpp)
